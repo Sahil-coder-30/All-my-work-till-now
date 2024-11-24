@@ -1,0 +1,19 @@
+Prime Check: Determine if a number is prime.
+
+GCD (Greatest Common Divisor): Find the GCD of two numbers.
+
+LCM (Least Common Multiple): Find the LCM of two numbers.
+
+Sum of Digits: Calculate the sum of the digits of a number.
+
+Reverse a Number: Reverse the digits of a number.
+
+Palindrome Check: Check if a number is a palindrome.
+
+Armstrong Number Check: Determine if a number is an Armstrong number.
+
+Perfect Number Check: Check if a number is a perfect number.
+
+Fibonacci Sequence: Generate the Fibonacci sequence up to a certain number.
+
+Factorial: Calculate the factorial of a number.
